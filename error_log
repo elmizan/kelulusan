@@ -1,0 +1,31 @@
+[13-Jun-2014 09:49:29 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/smpnbeka/public_html/config.php on line 6
+[13-Jun-2014 09:49:29 UTC] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/smpnbeka/public_html/config.php on line 7
+[13-Jun-2014 09:49:29 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/smpnbeka/public_html/config.php on line 7
+[13-Jun-2014 09:51:23 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/smpnbeka/public_html/config.php on line 6
+[13-Jun-2014 09:51:23 UTC] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/smpnbeka/public_html/config.php on line 7
+[13-Jun-2014 09:51:23 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/smpnbeka/public_html/config.php on line 7
+[13-Jun-2014 09:51:28 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/smpnbeka/public_html/config.php on line 6
+[13-Jun-2014 09:51:28 UTC] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/smpnbeka/public_html/config.php on line 7
+[13-Jun-2014 09:51:28 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/smpnbeka/public_html/config.php on line 7
+[13-Jun-2014 09:54:00 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/smpnbeka/public_html/config.php on line 6
+[13-Jun-2014 09:54:00 UTC] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/smpnbeka/public_html/config.php on line 7
+[13-Jun-2014 09:54:00 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/smpnbeka/public_html/config.php on line 7
+[13-Jun-2014 11:25:26 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/smpnbeka/public_html/include/classes/database.class.php on line 137
+[13-Jun-2014 11:25:26 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/smpnbeka/public_html/printsk.php on line 7
+[13-Jun-2014 11:25:26 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/smpnbeka/public_html/include/classes/database.class.php on line 224
+[13-Jun-2014 11:25:26 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/smpnbeka/public_html/include/classes/database.class.php on line 257
+[13-Jun-2014 11:25:26 UTC] PHP Warning:  getimagesize(images/.jpg): failed to open stream: No such file or directory in /home/smpnbeka/public_html/include/fpdf/fpdf.php on line 1202
+[13-Jun-2014 12:51:06 UTC] PHP Parse error:  syntax error, unexpected '$pdf' (T_VARIABLE) in /home/smpnbeka/public_html/printsk.php on line 106
+[13-Jun-2014 13:00:09 UTC] PHP Fatal error:  Using $this when not in object context in /home/smpnbeka/public_html/printsk.php on line 102
+[13-Jun-2014 13:01:04 UTC] PHP Fatal error:  Using $this when not in object context in /home/smpnbeka/public_html/printsk.php on line 102
+[13-Jun-2014 13:03:57 UTC] PHP Fatal error:  Using $this when not in object context in /home/smpnbeka/public_html/printsk.php on line 102
+[13-Jun-2014 15:53:50 UTC] PHP Fatal error:  Using $this when not in object context in /home/smpnbeka/public_html/printsk.php on line 102
+[13-Jun-2014 16:03:09 UTC] PHP Fatal error:  Using $this when not in object context in /home/smpnbeka/public_html/printsk.php on line 102
+[13-Jun-2014 16:10:56 UTC] PHP Fatal error:  Call to a member function Cell() on a non-object in /home/smpnbeka/public_html/printsk.php on line 41
+[13-Jun-2014 16:29:04 UTC] PHP Warning:  Missing argument 2 for FPDF::Line(), called in /home/smpnbeka/public_html/printsk.php on line 107 and defined in /home/smpnbeka/public_html/include/fpdf/fpdf.php on line 435
+[13-Jun-2014 16:29:04 UTC] PHP Warning:  Missing argument 3 for FPDF::Line(), called in /home/smpnbeka/public_html/printsk.php on line 107 and defined in /home/smpnbeka/public_html/include/fpdf/fpdf.php on line 435
+[13-Jun-2014 16:29:04 UTC] PHP Warning:  Missing argument 4 for FPDF::Line(), called in /home/smpnbeka/public_html/printsk.php on line 107 and defined in /home/smpnbeka/public_html/include/fpdf/fpdf.php on line 435
+[13-Jun-2014 16:29:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/smpnbeka/public_html/include/fpdf/fpdf.php:435) in /home/smpnbeka/public_html/include/fpdf/fpdf.php on line 1017
+[06-Jul-2014 14:56:27 UTC] PHP Warning:  mysql_connect(): Too many connections in /home/smpnbeka/public_html/config.php on line 6
+[06-Jul-2014 14:56:27 UTC] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/smpnbeka/public_html/config.php on line 7
+[06-Jul-2014 14:56:27 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/smpnbeka/public_html/config.php on line 7
